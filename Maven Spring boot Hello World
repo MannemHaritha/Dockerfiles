@@ -22,3 +22,7 @@ public class CourseController {
         return Arrays.asList("git","maven","sonar","nexus","jenkins");
     }
 }
+
+## http://ip:8080/getAllAwsServices ##
+
+## http://ip:8080/getAllDevopsTools ##
