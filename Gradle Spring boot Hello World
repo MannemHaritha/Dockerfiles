@@ -17,3 +17,5 @@ public class Nov13GradleDemoProjectApplication {
     }
 
 }
+
+## http://ip:8080/hello ## 
